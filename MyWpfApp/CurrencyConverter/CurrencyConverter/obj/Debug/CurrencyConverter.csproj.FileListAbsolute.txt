@@ -1,0 +1,14 @@
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.g.cs
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\App.g.cs
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.cache
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.lref
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.baml
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.g.resources
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\C#\MyWpfApp\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

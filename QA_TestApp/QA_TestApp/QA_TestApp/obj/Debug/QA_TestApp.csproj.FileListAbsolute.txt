@@ -1,0 +1,13 @@
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\bin\Debug\QA_TestApp.exe.config
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\bin\Debug\QA_TestApp.exe
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\bin\Debug\QA_TestApp.pdb
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp.csprojResolveAssemblyReference.cache
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\MainWindow.baml
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\MainWindow.g.cs
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\App.g.cs
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp_MarkupCompile.cache
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp.g.resources
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp.Properties.Resources.resources
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp.csproj.GenerateResource.Cache
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp.exe
+D:\C#\QA_TestApp\QA_TestApp\QA_TestApp\obj\Debug\QA_TestApp.pdb
